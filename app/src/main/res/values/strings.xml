@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_donor">Add donor</string>
+    <string name="find_donor">Find Donor</string>
+    <string name="name_box">Name</string>
+    <string name="bloodgroup_box">BloodGroup</string>
+    <string name="location_box">Location</string>
+    <string name="phone_number_box">Phone Number</string>
+    <string name="call_img">TODO</string>
+    <string name="map_img">TODO</string>
+    <string name="rname_box">TextView</string>
+    <string name="rgroup_box">TextView</string>
+    <string name="rperson_img">TODO</string>
+    <string name="search_bloodgroup_donor">Search BloodGroup Donor</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="find_aa">Find</string>
+</resources>
